@@ -2,6 +2,7 @@ clear,clc
 %syms
 %functions
 %equations
+%app designer
 
 
 
